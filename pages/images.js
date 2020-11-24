@@ -1,4 +1,4 @@
-// goods/goods.js
+// pages/images.js
 Page({
 
   /**
